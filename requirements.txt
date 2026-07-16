@@ -1,0 +1,8 @@
+smolagents==1.26.0
+litellm==1.83.7
+gradio>=4.0.0
+duckduckgo-search>=6.0.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+requests
+datasets>=2.14.0

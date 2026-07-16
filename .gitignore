@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+reports/
+generated_skills/
+.gradio/
+.DS_Store
+gaia_runs/
