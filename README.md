@@ -1,14 +1,3 @@
----
-title: Research Report Agent
-emoji: 🔎
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
----
-
 # Research Report Agent
 
 Agente pesquisador feito com `smolagents` e `Gradio`.
